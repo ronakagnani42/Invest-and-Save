@@ -1,7 +1,9 @@
 Project title: Savings and Investment Strategy Maker
 
 Frontend: html, css, js
+
 Backend: Laravel
+
 Database: mysql
 
 Step 1- Download zip file.
